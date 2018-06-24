@@ -172,7 +172,7 @@ module.exports = {
             result.templateToInclude = 'admin';
             result.pathToInclude = '../admin';
 
-            return res.view(pathTemplateBackCore + 'commun-back/main.ejs', result);
+            return res.view(pathTemplateBackCore + 'admin/new-template.ejs', result);
         }
 
         else {
