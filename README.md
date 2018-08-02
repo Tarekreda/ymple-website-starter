@@ -6,7 +6,9 @@
 
 ### [Product Page](https://www.ymple.com/)
 
-### [Demo](http://demo.ymple.com/)
+
+### Demo
+You can see a running demo here [Ymple Demo](http://demo.ymple.com)
 
 ### [Documentation + Database and Table](http://doc.ymple.com/)
 
