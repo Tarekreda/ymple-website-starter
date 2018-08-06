@@ -4,8 +4,8 @@
 
 [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/Ymple/ymple-commerce?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-### [Product Page](https://www.ymple.com/)
-
+### Product WebSite
+[www.ymple.com](https://www.ymple.com)
 
 ### Demo
 You can see a running demo here [Ymple Demo](http://demo.ymple.com)
