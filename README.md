@@ -1,5 +1,5 @@
 <h1>
-<a href="https://www.ymple.com"><img alt="Ymple Ecommerce" src="https://www.ymple.com/img/colors/blue/logo_big.png" title="Ymple Ecommerce"/></a>
+<a href="https://www.ymple.com"><img width="300" alt="Ymple Ecommerce" src="https://www.ymple.com/img/colors/blue/logo_big.png" title="Ymple Ecommerce"/></a>
 </h1>
 
 [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/Ymple/ymple-commerce?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -24,18 +24,17 @@ System Dependencies
 
 * MongoDB
 * Node.js
-* npm v
+* Sails
 
 
 ## Store
 
-![Ymple Store](https://www.ymple.com/img/screenshot/demo-front-home-20170917.png)
+<img src="https://www.ymple.com/img/screenshot/demo-front-home-20170917.png" width="600" />
 
 
 ## Dashboard
 
-![Ymple Dashboard](https://www.ymple.com/img/demo2/admin-board-2018-1.png)
-
+<img src="https://www.ymple.com/img/demo2/admin-board-2018-1.png" width="600" />
 
 
 How To Run
